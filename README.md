@@ -1,4 +1,4 @@
-<img align="center" height="400" 
+<img align="center" height="600" 
   src="https://giphy.com/gifs/animation-cartoon-scared-4TtTVTmBoXp8txRU0C"/>
   
 <h1 align="center">Hi 👋, I'm Muhammad Uzair</h1>
