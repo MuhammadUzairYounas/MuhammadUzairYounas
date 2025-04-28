@@ -1,7 +1,7 @@
-<img src="https://www.shutterstock.com/shutterstock/videos/3700906627/preview/stock-footage-program-code-in-ide-scrolling-down.webm" alt="">
+[![MasterHead](https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif)](https://giphy.com/gifs/animation-tech-1oF1KAEYvmXBMo6uTS)
 <h1 align="center">Hi 👋, I'm Muhammad Uzair</h1>
 <h3 align="center">A passionate AI Engineer from Pakistan</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pond5.com%2Fstock-footage%2Fitem%2F266198851-animation-binary-coding-and-data-processing-over-dark-backgr&psig=AOvVaw0hq3X5hzS0gA3GadhiAu8k&ust=1745921668014000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCf5J-_-owDFQAAAAAdAAAAABAY" alt="">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammaduzairyounas&label=Profile%20views&color=0e75b6&style=flat" alt="muhammaduzairyounas" /> </p>
 
 - 🌱 I’m currently learning **ML,DL Generative AI NLP , Computer vision**
