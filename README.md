@@ -1,5 +1,6 @@
-
-<img align="center" height="400" src="https://giphy.com/gifs/animation-cartoon-scared-4TtTVTmBoXp8txRU0C"/>
+<img align="center" height="400" 
+  src="https://giphy.com/gifs/animation-cartoon-scared-4TtTVTmBoXp8txRU0C"/>
+  
 <h1 align="center">Hi 👋, I'm Muhammad Uzair</h1>
 <h3 align="center">A passionate AI Engineer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammaduzairyounas&label=Profile%20views&color=0e75b6&style=flat" alt="muhammaduzairyounas" /> </p>
