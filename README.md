@@ -1,5 +1,4 @@
-<img align="center" height="300" 
-  src="https://giphy.com/gifs/animation-cartoon-scared-4TtTVTmBoXp8txRU0C"/>
+<img align="center" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY3cWJyM3NpMnV2czJ2dXN1ZDV2M2N0cW9xdHMwOW9laWx0Y2x4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tL5HmgfZi0Qow/giphy.gif"  />
   
 <h1 align="center">Hi 👋, I'm Muhammad Uzair</h1>
 <h3 align="center">A passionate AI Engineer from Pakistan</h3>
