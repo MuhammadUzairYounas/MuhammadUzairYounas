@@ -1,7 +1,7 @@
 [![MasterHead](https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif)](https://giphy.com/gifs/animation-tech-1oF1KAEYvmXBMo6uTS)
 <h1 align="center">Hi 👋, I'm Muhammad Uzair</h1>
 <h3 align="center">A passionate AI Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
+<img align="right" alt="Coding" width="300" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammaduzairyounas&label=Profile%20views&color=0e75b6&style=flat" alt="muhammaduzairyounas" /> </p>
 
 - 🌱 I’m currently learning **ML,DL Generative AI NLP , Computer vision**
